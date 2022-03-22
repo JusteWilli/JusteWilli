@@ -7,8 +7,7 @@ JusteWilli/JusteWilli is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-```html
-<h2>Example of code</h2>
+
 
 <pre>
     <div class="container">
@@ -20,4 +19,4 @@ You can click the Preview link to take a look at your changes.
         </div>
     </div>
 </pre>
-```
+

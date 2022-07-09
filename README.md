@@ -1,7 +1,7 @@
 ## About Me
 
 Hey I'm Willi
-I'm 14 years old
+I can Python, Html, CSS and currently Learning Java
 You can reach me on Discord willi#6392 or on my Email me@willi.gq
  ## Stats
 [![wakatime](https://wakatime.com/badge/user/2182b149-d3f2-4dc7-acca-794f8d6cabd5.svg)](https://wakatime.com/@2182b149-d3f2-4dc7-acca-794f8d6cabd5)
